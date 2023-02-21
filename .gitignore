@@ -1,2 +1,5 @@
 venv
 .venv
+
+# no cascade data files
+*.xml
